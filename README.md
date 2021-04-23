@@ -5,3 +5,9 @@
 部署到Heroku後，資料庫使用ClearDB。
 
 Live Demo(Heroku): https://reporter-shaun.herokuapp.com/
+
+# Usage
+
+`npm install
+
+npm start`
