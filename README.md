@@ -8,6 +8,6 @@ Live Demo(Heroku): https://reporter-shaun.herokuapp.com/
 
 # Usage
 
-`npm install
+`npm install`
 
-npm start`
+`npm start`
